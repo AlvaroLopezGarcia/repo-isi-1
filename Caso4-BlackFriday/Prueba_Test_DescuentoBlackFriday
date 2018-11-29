@@ -1,0 +1,9 @@
+Debido a la implementación del programa DescuentoBlackFriday.java
+obliga a que los test testlimitesuperior, testlimiteinferior y testcorrectofunc
+solamente puedan ser probados si coincide la fecha de la ejecución
+de MiDescuentoBlackFridayTest.java con el 22/11, 23/11 o 24/11.
+Dicho de otro modo:solamente se aplicará el descuento cuando ejecute
+este programa el día 23 de noviembre.
+
+Mi test  ha dado error en testprecionegativo. No controla el caso que
+se introduxca un numero negativo.
