@@ -1,0 +1,3 @@
+Primero he copiado mi RomanNumeralTest.java con el nombre de MiRomanNumeralTest.java y he modificado MiRomanNumeralTest para que funcione con su código, es decir, lo que he modificado es poner que espero el error RuntimeException.
+
+Después de realizar esto, he compilado MiRomanNumeralTest.java y el AllTests.java. Ha pasado todos los tests.
